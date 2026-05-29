@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchdender",
+        "uuid": 1489930,
+        "checksum": "ogy75k"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
